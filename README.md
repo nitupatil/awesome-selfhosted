@@ -1,3 +1,9 @@
+# best Quick online file sharing in 3 sec 
+
+www.quickshares.online - QuickShares.online is a fast, simple, and secure temporary file-sharing platform that lets you send files between devices without complicated setup. Upload your files, generate a secure sharing link or QR code, and transfer them easily using a PIN/OTP-based system. Files are temporary and automatically expire, making QuickShares ideal for quick, private, and hassle-free file transfers.
+
+
+
 # Awesome-Selfhosted
 
 [![Awesome](_static/awesome.png)](https://github.com/sindresorhus/awesome) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-dead-links.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://github.com/awesome-selfhosted/awesome-selfhosted-data/actions/workflows/check-unmaintained-projects.yml/badge.svg)](https://github.com/awesome-selfhosted/awesome-selfhosted-data/issues/1) [![](https://img.shields.io/liberapay/goal/awesome-selfhosted.svg?logo=liberapay)](https://liberapay.com/awesome-selfhosted/)
